@@ -14,20 +14,7 @@ Dataset Link - https://drive.google.com/file/d/15v2umVbv1OarPfNrePH9V-KPk7qqA6Cg
 
 Reference Paper - https://psycnet.apa.org/fulltext/2016-57141-003.pdf
 
-Instructions for Execution:
-
-1. Copy the repository to your local machine.
-
-2. Acquire three data files (users.csv, users-likes.csv, likes.csv) from the provided dataset link and position them in the Data folder of the repository.
-
-3. Install R on your computer.
-
-4. Open your terminal, navigate to the Code folder, and execute the following scripts:
-
-   a. Execute "Rscript SVD_Cluster_Analysis.R" to perform SVD dimensionality reduction and visualize K-Means and DBSCAN clustering algorithms applied to SVD clusters.
-   
-   b. Execute "Rscript LDA_Cluster_Analysis.R" to carry out LDA dimensionality reduction and visualize K-Means and DBSCAN clustering algorithms applied to LDA clusters.
-   
-   c. Execute "Rscript Prediction_Analysis.R" to implement Linear and Logistic Regression algorithms for predicting user personality types.
-   
-5. Check the Evaluations folder for R visualization files generated from running the scripts mentioned above in the code folder.
+Instructions for execution:
+1) Make sure that you have Anaconda Installed on your computer.
+2) Launch Jupyter Notebooks and navigate to the folder where the code is present.
+3) Open it and start executing!
